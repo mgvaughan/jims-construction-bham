@@ -1,11 +1,11 @@
-import Pic1 from "../public/assets/gallery/1.JPG";
-import Pic2 from "../public/assets/gallery/2.JPG";
-import Pic3 from "../public/assets/gallery/3.JPG";
-import Pic4 from "../public/assets/gallery/4.JPG";
-import Pic5 from "../public/assets/gallery/5.JPG";
-import Pic6 from "../public/assets/gallery/6.JPG";
-import Pic7 from "../public/assets/gallery/7.JPG";
-import Pic8 from "../public/assets/gallery/8.JPG";
+import Pic1 from "../public/assets/gallery/1.png";
+import Pic2 from "../public/assets/gallery/2.png";
+import Pic3 from "../public/assets/gallery/3.png";
+import Pic4 from "../public/assets/gallery/4.png";
+import Pic5 from "../public/assets/gallery/5.png";
+import Pic6 from "../public/assets/gallery/6.png";
+import Pic7 from "../public/assets/gallery/7.png";
+import Pic8 from "../public/assets/gallery/8.png";
 
 export const SliderData = [
   { image:  Pic1  },
